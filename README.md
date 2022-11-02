@@ -1,3 +1,3 @@
- # Technical-Project-Assignment-1
- 
- Membuat Potofolio Website Menggunakan HTML dan CSS
+# Technical-Project-Assignment-1
+
+Membuat Website Portofolio Menggunakan HTML dan CSS [KlikDisini](https://saturnfz.netlify.app/)
